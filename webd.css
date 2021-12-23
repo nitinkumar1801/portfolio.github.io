@@ -1,0 +1,38 @@
+.hello
+{
+    background-color:mediumturquoise;
+}
+.hello2
+{
+    background-color:moccasin;
+}
+.hello3
+{
+    background-color: orange;
+}
+li{
+    list-style-type: square;
+    font-size: 25px;
+}
+.n1{
+    color:blue;
+    font-style:italic ;
+    
+}
+.n2{
+    color: crimson;
+    font-style:oblique;
+}
+.n3{
+    color:chartreuse;
+    font-style: oblique;
+
+}
+.contact2
+{
+     list-style-type:decimal-leading-zero;
+}
+.contactGo{
+    transform: translate(-443px,0px);
+    position:abosulte;
+}
