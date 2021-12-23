@@ -20,7 +20,7 @@ li{
     
 }
 .n2{
-    color: crimson;
+    color:chartreuse;
     font-style:oblique;
 }
 .n3{
@@ -36,3 +36,11 @@ li{
     transform: translate(-443px,0px);
     position:abosulte;
 }
+
+.aditya{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to left,#e71212, #d11d53);
+    }
